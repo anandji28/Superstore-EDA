@@ -42,6 +42,4 @@ Our findings provided actionable recommendations for targeting key customer demo
 ## Contact
 For any questions or suggestions, please contact [Anand Ji Parasar](mailto:upadhyayanandji@gmail.com).
 
----
 
-Feel free to update the content based on your specific details and preferences.
